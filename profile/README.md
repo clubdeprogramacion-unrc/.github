@@ -1,15 +1,16 @@
-# 💻 Club de Programación UNRC
-
-Bienvenido al espacio de trabajo del Club de Programación.
-
-Este club está diseñado para aprender construyendo, compartir conocimientos y desarrollar proyectos de manera colaborativa.
-
 ## 🚀 Ruta de aprendizaje
 
-- 🟢 Nivel 1 — Fundamentos
-- 🔵 Nivel 2 — Desarrollo
-- 🟣 Nivel 3 — Integración
-- 🟠 Nivel 4 — Proyectos
-- 🔴 Nivel 5 — Desarrollo colaborativo
+- 🧭 **Nivel 0 · Quiero entender**  
+  Computadora, archivos, terminal, editor y ejecución de código.
 
-> Aprender, experimentar, construir y compartir.
+- 💻 **Nivel 1 · Quiero programar**  
+  Lógica, C++, Python, Git, GitHub y pequeños problemas.
+
+- 🧩 **Nivel 2 · Quiero construir**  
+  Web, frontend, backend, APIs, bases de datos y autenticación.
+
+- 🚀 **Nivel 3 · Quiero publicar**  
+  Linux, SSH, servidores, Docker, dominios y despliegue.
+
+- 🧠 **Nivel 4 · Quiero crear y experimentar**  
+  IA, automatización, IoT, apps y proyectos colaborativos.
